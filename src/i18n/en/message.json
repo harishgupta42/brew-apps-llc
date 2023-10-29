@@ -1,0 +1,5 @@
+{
+  "success": "Success",
+  "bookNotFound": "Book does not exist",
+  "bookAlreadyExists": "Book already exists"
+}
